@@ -3,13 +3,6 @@
 Welcome to the Diamond Price Prediction project! This repository focuses on predicting diamond prices using machine learning models. The project is equipped with an end-to-end deployment setup, allowing users to access predictions through a Flask web application.
 
 
-## Quick Start
-
-1. Install dependencies using `pip install -r requirements.txt`.
-2. Run the training pipeline using `python src/pipelines/training_pipeline.py`.
-3. Execute `python application.py` to start the Flask web application.
-4. Access the web application in your browser at `http://localhost:5000/`.
-
 ## Project Components
 
 - **artifacts**: Contains serialized data and model files.
